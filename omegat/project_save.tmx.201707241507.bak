@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_0_9957" segtype="sentence" srclang="ES-ES"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv lang="ES-ES">
+        <seg>En el 2004 se reunieron un grupo de personas de la Comarca del Camp de Morvedre y alrededores para formar una asociación de escaladores con dos objetivos: tener localizado un grupo de gente con la que poder realizar en nuestro tiempo libre la actividad que más nos gusta: escalar; y como segundo objetivo, montar un rocódromo donde poder practicar y entrenar, mejorando así nuestro nivel para la escalada.</seg>
+      </tuv>
+      <tuv lang="DE-DE" changeid="carolinarodrigo" changedate="20170724T130705Z" creationid="carolinarodrigo" creationdate="20170724T130705Z">
+        <seg>w</seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+  </body>
+</tmx>
